@@ -1,0 +1,13 @@
+Alguns atalhos úteis
+
+Edição:
+SHIFT + DEL  – Exclui a linha atual
+CTRL + SHIFT + D  – Duplica a linha, ou bloco selecionado.
+CTRL + ] – Indenta (identa*)  a linha sem precisar ir no início da mesma.
+ALT + F3 – Seleciona todas as palavras iguais e habilita a edição múltipla (isso é uma beleza para trocar todas as variáveis de um fonte por exemplo;
+
+CTRL + +  Aumenta a fonte do editor (se você não tem teclado numérico CTRL + SHIFT + +)
+CTRL + – Diminui a fonte do editor (se você não tem teclado numérico CTRL + SHIFT + -)
+
+CTRL + S – Salva o texto
+CTRL + SHIFT + S – Salvar como …
