@@ -11,3 +11,7 @@ linter-ansible-linting
 linter-ansible-syntax
 linter-json-lint
 linter-ui-default
+advanced-open-file
+file-icons
+atom-liquid-snippets
+expose   
